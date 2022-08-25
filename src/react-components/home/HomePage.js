@@ -129,7 +129,7 @@ export function HomePage() {
             <p>
               <FormattedMessage
                 id="home-page.media-blurb"
-                defaultMessage="Share content with others in your room by dragging and dropping photos, videos, PDF files, links, and 3D models into your space."
+                defaultMessage="testtesttesttesetas Share content with others in your room by dragging and dropping photos, videos, PDF files, links, and 3D models into your space."
               />
             </p>
           </Column>
