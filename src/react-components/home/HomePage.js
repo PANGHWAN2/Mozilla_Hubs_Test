@@ -124,12 +124,13 @@ export function HomePage() {
           <Column padding gap="xl" className={styles.card}>
             <img src={configs.image("landing_media_thumb")} />
             <h3>
-              <FormattedMessage id="home-page.media-title" defaultMessage="An easier way to share media" />
+              <FormattedMessage id="home-page.media-title" defaultMessage="TESTTESTTEST" />
             </h3>
+            <p>TESTTESETTEST</p>
             <p>
               <FormattedMessage
                 id="home-page.media-blurb"
-                defaultMessage="testtesttesttesetas Share content with others in your room by dragging and dropping photos, videos, PDF files, links, and 3D models into your space."
+                defaultMessage="TEST@@@@@@@@@@@ Share content with others in your room by dragging and dropping photos, videos, PDF files, links, and 3D models into your space."
               />
             </p>
           </Column>
