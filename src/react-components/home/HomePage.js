@@ -126,7 +126,7 @@ export function HomePage() {
             <h3>
               <FormattedMessage id="home-page.media-title" defaultMessage="TESTTESTTEST" />
             </h3>
-            <p>TESTTESETTEST</p>
+            <p>TESTTESETTESTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</p>
             <p>
               <FormattedMessage
                 id="home-page.media-blurb"
@@ -141,6 +141,7 @@ export function HomePage() {
           <h3 className={styles.roomsHeading}>
             <FormattedMessage id="home-page.public--rooms" defaultMessage="Public Rooms" />
           </h3>
+          <h1>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</h1>
           <Column grow padding className={styles.rooms}>
             <MediaGrid center>
               {sortedPublicRooms.map(room => {
